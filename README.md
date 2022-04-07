@@ -16,7 +16,7 @@ Prossecor: At least a snapdragon prossecor
 GPU: Any Gpu (Works better on Andreno)
 Opengl version: 3.0
 Pojavlauncher Renderer: VGPU
-#Disclaimer
+# Disclaimer
 I have permission form developer. Please do 
 not modify the shader code without coding 
 knowledge. Don't claim the ownership of this 
